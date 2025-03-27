@@ -1,0 +1,8 @@
+body { background-color: #f0f8ff; font-family: Verdana, sans-serif; } 
+h1 { color: #2e8b57; font-size: 24px; font-weight: bold; } 
+h2 { color: #4682b4; font-style: italic; } p:first-letter { font-size: 1.5em; } 
+a { text-decoration: none; } 
+a:hover { text-decoration: underline; } 
+dl { background-color: #e6e6fa; padding: 10px; border-left: 3px solid #9370db; } 
+dt { font-weight: bold; color: #4b0082; } 
+a { text-decoration: none; } a:hover { text-decoration: underline; } p:first-letter { font-size: 1.5em; }
